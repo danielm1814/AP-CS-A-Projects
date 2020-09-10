@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Apple
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Apple\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=xCoor\ yCoor\ titleSize
+comment1.target=Apple(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=
+comment4.target=int\ getXCoor()
+comment5.params=
+comment5.target=int\ getYCoor()
+comment6.params=xCoor
+comment6.target=void\ setXCoor(int)
+comment7.params=yCoor
+comment7.target=void\ setYCoor(int)
+numComments=8
