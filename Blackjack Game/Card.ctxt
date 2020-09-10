@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ This\ is\ a\ class\ that\ can\ be\ used\ to\ create\ cards\r\n
+comment1.params=theSuit\ theRank
+comment1.target=Card(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ that\ creates\ a\ card\r\n\ @param\ theSuit\r\n\ @param\ theRank\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSuit()
+comment2.text=\r\n\ @return\ the\ suit\r\n
+comment3.params=
+comment3.target=java.lang.String\ getRank()
+comment3.text=\r\n\ @return\ the\ rank\r\n
+comment4.params=
+comment4.target=int\ getValue()
+comment4.text=\r\n\ This\ is\ used\ to\ turn\ the\ given\ rank\ into\ a\ specific\ value\ \r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Returns\ a\ string\ version\ of\ a\ card\r\n\ @returns\ toString\r\n
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HandTester
+comment0.text=\r\n\ Tester\ for\ the\ Hand\ Class\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ handTesterWithCards()
+comment2.text=\r\n\ \ \ \ In\ this\ helper\ method\ test\ your\ Hand.java\ by\ adding\ specific\ cards\r\n\ \ \ \ to\ the\ Hand.\ \r\n\ \r\n\ \ \ \ Can\ you\ add\ cards?\r\n\ \ \ \ Can\ you\ get\ the\ value?\r\n\ \ \ \ Can\ you\ get\ the\ size?\r\n\ \ \ \ Can\ you\ clear\ the\ hand?\r\n\ \ \ \ Does\ it\ work\ for\ Blackjack?\r\n\ \ \ \ Does\ it\ bust?\r\n\ \ \ \ Can\ it\ handle\ Aces?\r\n\ \ \ \ Check\ A\ 2\ A\t\t\r\n\t\t\tA\ 2\ A\ K\t\ \ \ \ now\ what\ happens?\r\n\t\t\tA\ 2\ A\ A\ 8\tI\u2019ve\ got\ a\ lot\ of\ testers\ to\ fail\ with\ this\ order\r\n
+comment3.params=
+comment3.target=void\ handTesterWithShoe()
+comment3.text=\r\n\ \ \ In\ this\ helper\ method\ create\ a\ Hand\ and\ a\ Shoe.\ \r\n\ \r\n\ \ \ Can\ you\ draw\ cards\ from\ the\ shoe\ and\ add\ them\ to\ the\ hand?\r\n\ \ \ Does\ the\ size\ of\ the\ Shoe\ work\ correctly?\r\n\ \ \ Do\ all\ of\ the\ Hand\ methods\ work\ correctly\ when\ interacting\ with\ the\ Shoe\r\n
+numComments=4
